@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Microsoft Certified: Azure Solutions Architect Expert",
+        "link": "https://www.credly.com/badges/4bba4668-05eb-4579-8043-d7123cd9c722/public_url",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: Jun 2019 - December 2023"
+    },
+    {
+        "name": "Microsoft Certified: Exam 535: Architecting Microsoft Azure Solutions",
+        "link": "https://www.credly.com/badges/b5111790-cacd-4b5e-a00e-ff898ba95380/public_url",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: Jun 2018 - No Expiration date"
+    },
+    {
+        "name": "Microsoft Certified: DevOps Engineer Expert",
+        "link": "https://www.credly.com/badges/81752e77-0fe8-4ae2-8b43-989959b158ef/public_url",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: February 2021 - February 2023"
+    },
+    {
+        "name": "Microsoft Certified: Cybersecurity Architect Expert",
+        "link": "https://www.credly.com/badges/f8f0d0d9-9144-4737-ac70-fac61027d1c2/public_url",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: August 2022 - August 2023"
+    },    
+    {
+        "name": "Microsoft Certified: Azure Database Administrator Associate",
+        "link": "https://www.credly.com/badges/d22e8f1d-71f8-40f4-b358-24aa635e8391/public_url",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: March 2021 - March 2023"
+    },
+    {
+        "name": "Microsoft Certified: AZ-400 Designing and Implementing Microsoft DevOps Solutions",
+        "link": "https://www.credly.com/badges/30eaf675-d2a7-4e10-8bc7-9b70b34d8eb0/public_url",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: February 2021 - No Expiration date"
+    },
+    {
+        "name": "Microsoft Certified: Azure Network Engineer Associate (AZ-700)",
+        "link": "https://www.credly.com/badges/68ed457f-c656-4785-a7d8-23f2818cabca/public_url",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: February 2022 - Expires on 26 February 2023"
+    },
+    {
+        "name": "Microsoft Certified: Azure Security Engineer Associate (AZ-500)",
+        "link": "https://www.credly.com/badges/6e066c5a-cfc8-4143-8708-6a10aad6ffee/public_url",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: July 2021 - Expires on 13 July 2023"
+    },
+    {
+        "name": "Microsoft Certified: Azure Developer Associate (AZ-204)",
+        "link": "https://www.credly.com/badges/fe3d9070-5a1e-4fa3-87da-4cffa2536684/public_url",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: March 2021 - Expires on 26 March 2023"
+    },
+    {
+        "name": "Microsoft Certified: Azure Administrator Associate (AZ-104)",
+        "link": "https://www.credly.com/badges/bb999e47-ec08-4c98-9816-2666391e00b4/public_url",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: Jan 2021 - Expires on 13 January 2023"
+    },
+    {
+        "name": "HashiCorp Certified: Terraform Associate",
+        "link": "https://www.credly.com/badges/03b4951d-0f62-49fa-91d5-165fd27d3748/public_url",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: March 2022 - Expires on 28 March 2023"
+    }, 
+    {
+        "name": "ITIL Intermediate Service Transition",
+        "link": "files/ITIL_SERVICE_TRANSITION.pdf",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: Feb 2014 - Present License 1002013033"
+    },
+    {
+        "name": "ITIL V3 Foundation",
+        "link": "files/ITIL_V3.pdf",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: May 2010 – Present License 00136963"
+    },
+    {
+        "name": "Splunk Certified User",
+        "link": "https://splunkcommunities.force.com/customers/apex/customers/apex/EDU_DownloadCertificate?id=a1O0b000004H1c8&retURL=/a1O0b000004H1c8",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: Mar 2018 – Present License Cert-231017"
+    },
+    {
+        "name": "MTCNA - Mikrotik",
+        "link": "https://mikrotik.com/training/certificates/c101759c557b64b4b9fd",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: Sep 2017 – Sep 2020 License 1709NA1759"
+    },
+    {
+        "name": "Intermediate Python for Data Science Course",
+        "link": "",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: Jan 2018 – Present License 4813462"
+    },
+    {
+        "name": "edX Verified Professional Certificate for DAT201x: Querying with Transact- SQL",
+        "link": "https://courses.edx.org/certificates/2368f398f413451d95ea37188c026a95",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: Jul 2017 – Present License 2368f398f413451d95ea37188c026a95"
+    },
+    {
+        "name": "edX Verified Professional Certificate for DAT222x: Essential Statistics for Data Analysis using Excel",
+        "link": "https://courses.edx.org/certificates/68d5c520c5374dcebff6924071ed0df3",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: Jun 2017 – Present License 68d5c520c5374dcebff6924071ed0df3"
+    },
+    {
+        "name": "edX Professional Certificate for Windows PowerShell Fundamentals",
+        "link": "https://s3.amazonaws.com/verify.edx.org/downloads/3518418274064a9b8f859bef30b03c52/Certificate.pdf",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: May 2015 – Present"
+    },
+    {
+        "name": "edX Verified Certificate for Introduction to Linux",
+        "link": "https://s3.amazonaws.com/verify.edx.org/downloads/9401b4788ef44624ad10b6310ca5420c/Certificate.pdf",
+        "icon": "fa-li fa fa-trophy text-warning",
+        "date": "Certification Date: May 2015 – Present"
+    }
+]
