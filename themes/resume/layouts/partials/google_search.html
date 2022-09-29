@@ -1,0 +1,16 @@
+<section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+    <div class="w-100">
+        <h1 class="mb-0">
+            {{ .Site.Params.firstName }}
+            <span class="text-primary">{{ .Site.Params.lastName }}</span>
+        </h1>
+        <div class="subheading mb-5">
+            {{ .Site.Params.city }} · {{ .Site.Params.country }} · {{ .Site.Params.phone }} ·
+            <a href="mailto:{{ .Site.Params.email }}"> {{ .Site.Params.email }}</a>
+        </div>
+
+        <script async src="https://cse.google.com/cse.js?cx=002177232013556146525:6uas8hfll0s"></script>
+        <div class="gcse-search" enableAutoComplete="true"></div>
+
+    </div>
+</section>

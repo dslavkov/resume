@@ -1,0 +1,48 @@
+<hr class="m-0">
+    
+<section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+    <div class="w-100">
+        <h2 class="mb-5">Experience</h2>
+
+        {{ range .Site.Data.experience }}
+            <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+                <div class="resume-content">
+                    <h3 class="mb-0">{{ .role }}</h3>
+                    <div class="subheading mb-3">{{ .company }}</div>
+                    <p>
+                        {{ .description }}
+                    </p>
+                    <ul>
+                        {{ range .responsibilities}}
+                            <li> {{ . }} </li>
+                        {{ end }}
+                    </ul>
+                    {{if gt (len .achievements) 0}} 
+                        <p>
+                            Major achievements:
+                        </p>
+                        <ul>
+                            {{ range .achievements}}
+                            <li> {{ . }} </li>
+                            {{ end }}
+                        </ul>
+                    {{ end }}
+                    {{if gt (len .technologies) 0}} 
+                        <p>
+                            Technologies used:
+                        </p>
+                        <ul>
+                            {{ range .technologies}}
+                            <li> {{ . }} </li>
+                            {{ end }}
+                        </ul>
+                    {{ end }}
+                </div>
+                <div class="resume-date text-md-right">
+                    <span class="text-primary">{{ .startDate }} - {{ .endDate }}</span>
+                </div>
+            </div>
+        {{ end }}
+        <br />
+    </div>
+</section>

@@ -1,0 +1,22 @@
+<hr class="m-0">
+    
+<section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="awards">
+    <div class="w-100">
+        <h2 class="mb-5">Certifications &amp; Courses</h2>
+        <div class="subheading mb-3" id="dw">I regularly remove the certifications here and keep only these where a personal project can not demonstrate my skill. Example: there is no Oracle bellow as I have several projects, but there are T-SQL certificates.</div>
+
+        <ul class="fa-ul mb-0">
+
+            {{ range .Site.Data.certificates }}
+            <li>
+                <i class="{{ .icon}}"></i> {{ .name }}
+            </li>
+            <span class="text-primary">
+                <a href="{{ .link }}" target="_blank">
+                    {{ .date }}
+                </a>
+            </span>
+            {{ end }}
+        </ul>
+    </div>
+</section>
